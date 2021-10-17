@@ -1,0 +1,12 @@
+.header {
+  @apply bg-white w-full lg:h-48 lg:rounded-b-3xl filter shadow-xl drop-shadow-lg;
+}
+.thick{
+  font-weight: 900;
+}
+
+.w-mobile{
+  width: 54rem;
+}
+
+.scrolling-auto { -webkit-overflow-scrolling: auto; }
